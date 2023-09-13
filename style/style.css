@@ -1,3 +1,39 @@
 h1 {
   padding-top: 20px;
+}
+
+.section_images {
+  padding-top: 80px;
+  justify-content: center;
+  text-align: center;
+}
+
+.img1 {
+  width: 300px;
+  height: auto;
+}
+
+.img2 {
+  width: 300px;
+  height: auto;
+}
+
+.img3 {
+  width: 300px;
+  height: auto;
+}
+
+.img1:hover {
+  width: 450px;
+  height: auto;
+}
+
+.img2:hover {
+  width: 450px;
+  height: auto;
+}
+
+.img3:hover {
+  width: 450px;
+  height: auto;
 }/*# sourceMappingURL=style.css.map */
