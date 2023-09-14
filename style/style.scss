@@ -1,3 +1,7 @@
+body{
+
+    background-image: url(/maqueta-tarea/img/lenguajes-de-programacion-mas-usados-1.jpg);
+}
 
 h1{
 padding-top: 20px; 
@@ -15,6 +19,8 @@ padding-top: 20px;
 
     width: 300px;
     height: auto;
+    transition: all 0.3s ease-out;
+
 
 }
 
@@ -22,6 +28,8 @@ padding-top: 20px;
 
     width: 300px;
     height: auto;
+    transition: all 0.3s ease-out;
+
 
 }
 
@@ -29,24 +37,24 @@ padding-top: 20px;
 
     width: 300px;
     height: auto;
+    transition: all 0.3s ease-out;
+
 
 }
 
 .img1:hover{
-
-    width: 450px;
-    height: auto;
+    transform: scale(1.4, 1.4);
 
 }
 
 .img2:hover{
 
-    width: 450px;
-    height: auto;
+    transform: scale(1.4, 1.4);
+
 }
 
 .img3:hover{
 
-    width: 450px;
-    height: auto;
+    transform: scale(1.4, 1.4);
+
 }
